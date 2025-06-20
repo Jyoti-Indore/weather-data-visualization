@@ -2,8 +2,7 @@
 Weather Data Analysis and Visualization Project Report
 # 🌦️ Weather Data Visualization Project
 
-This project presents an exploratory data analysis (EDA) of real-world weather data using Python. The analysis was performed in **Google Colab** with libraries like **Pandas** and **Seaborn**, and the final report was documented in **IEEE format using Overleaf**.
-
+This project presents an exploratory data analysis (EDA) of real-world weather data using Python. The analysis was performed in **Google Colab** with libraries like **Pandas** and **Seaborn**, 
 📄 The complete analysis and visualizations are available in the attached PDF report.
 
 ---
@@ -32,7 +31,7 @@ This project presents an exploratory data analysis (EDA) of real-world weather d
 
 ## 📁 Files in This Repository
 
-- `Weather-Project-Report.pdf` – Contains full data analysis, plots, and observations in IEEE format.
+- `Weather-Project-Report.pdf` – Contains full data analysis, plots
 
 ---
 
